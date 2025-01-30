@@ -1,6 +1,6 @@
-name = "my-worker"
+name = "veebee-website"
 type = "javascript"
-main = "C:\Users\husle\Desktop\Coding\veebee.cc\veebee-website\src\index.js"  # Make sure the file path is correct
+main = "src/index.js"  # Make sure the file path is correct
 
 [env.production]
 route = "yourdomain.com/*"  # Optional, if you have a route to deploy to
