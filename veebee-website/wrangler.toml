@@ -3,4 +3,4 @@ type = "javascript"
 main = "src/index.js"  # Make sure the file path is correct
 
 [env.production]
-route = "yourdomain.com/*"  # Optional, if you have a route to deploy to
+route = "veebee.cc/*"  # Optional, if you have a route to deploy to
