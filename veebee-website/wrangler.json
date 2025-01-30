@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "veebee-website",
-  "main": "C:\\Users\\husle\\Desktop\\Coding\\veebee.cc\\veebee-website\\src\\index.js",
+  "main": "src/index.js",
   "compatibility_date": "2025-01-29",
   "observability": {
     "enabled": true
